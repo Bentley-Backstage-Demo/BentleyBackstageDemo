@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: sample-github-service
   annotations:
-    github.com/project-slug: 'Bentley-Backstage-Demo/BentletBackstageDemo'
+    github.com/project-slug: 'Bentley-Backstage-Demo/BentleyBackstageDemo'
 spec:
   type: service
   lifecycle: production
