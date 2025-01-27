@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-github-service
+  annotations:
+    github.com/project-slug: 'Bentley-Backstage-Demo/BentletBackstageDemo'
+spec:
+  type: service
+  lifecycle: production
+  owner: bentley-appsec
