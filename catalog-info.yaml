@@ -4,6 +4,8 @@ metadata:
   name: sample-github-service
   annotations:
     github.com/project-slug: 'Bentley-Backstage-Demo/BentleyBackstageDemo'
+    github.com/org: 'Bentley-Backstage-Demo'
+    github.com/repo: 'BentleyBackstageDemo'
 spec:
   type: service
   lifecycle: production
